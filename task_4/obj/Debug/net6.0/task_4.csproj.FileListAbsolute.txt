@@ -1,0 +1,15 @@
+C:\Users\perec_000\Desktop\Examples\task_4\bin\Debug\net6.0\task_4.exe
+C:\Users\perec_000\Desktop\Examples\task_4\bin\Debug\net6.0\task_4.deps.json
+C:\Users\perec_000\Desktop\Examples\task_4\bin\Debug\net6.0\task_4.runtimeconfig.json
+C:\Users\perec_000\Desktop\Examples\task_4\bin\Debug\net6.0\task_4.dll
+C:\Users\perec_000\Desktop\Examples\task_4\bin\Debug\net6.0\task_4.pdb
+C:\Users\perec_000\Desktop\Examples\task_4\obj\Debug\net6.0\task_4.csproj.AssemblyReference.cache
+C:\Users\perec_000\Desktop\Examples\task_4\obj\Debug\net6.0\task_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perec_000\Desktop\Examples\task_4\obj\Debug\net6.0\task_4.AssemblyInfoInputs.cache
+C:\Users\perec_000\Desktop\Examples\task_4\obj\Debug\net6.0\task_4.AssemblyInfo.cs
+C:\Users\perec_000\Desktop\Examples\task_4\obj\Debug\net6.0\task_4.csproj.CoreCompileInputs.cache
+C:\Users\perec_000\Desktop\Examples\task_4\obj\Debug\net6.0\task_4.dll
+C:\Users\perec_000\Desktop\Examples\task_4\obj\Debug\net6.0\refint\task_4.dll
+C:\Users\perec_000\Desktop\Examples\task_4\obj\Debug\net6.0\task_4.pdb
+C:\Users\perec_000\Desktop\Examples\task_4\obj\Debug\net6.0\task_4.genruntimeconfig.cache
+C:\Users\perec_000\Desktop\Examples\task_4\obj\Debug\net6.0\ref\task_4.dll
